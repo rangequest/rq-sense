@@ -24,5 +24,8 @@
   "homepage": "https://github.com/rangequest/rq-sense#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.6"
   }
 }
