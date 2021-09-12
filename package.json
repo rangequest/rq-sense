@@ -4,7 +4,8 @@
   "description": "sense is a faculty by which the body perceives an external stimulus.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose --detectOpenHandles"
+    "test": "jest --watchAll --verbose --detectOpenHandles --coverage",
+    "start": "node index.js"
   },
   "keywords": [
     "sense",
@@ -12,5 +13,13 @@
     "life"
   ],
   "author": "Range Quest",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangequest/rq-sense.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rangequest/rq-sense/issues"
+  },
+  "homepage": "https://github.com/rangequest/rq-sense#readme"
 }
