@@ -1,0 +1,16 @@
+{
+  "name": "rq-sense",
+  "version": "1.0.0",
+  "description": "sense is a faculty by which the body perceives an external stimulus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --detectOpenHandles"
+  },
+  "keywords": [
+    "sense",
+    "time",
+    "life"
+  ],
+  "author": "Range Quest",
+  "license": "MIT"
+}
